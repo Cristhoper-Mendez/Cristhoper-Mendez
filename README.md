@@ -2,32 +2,32 @@
 <h3 align="center">Software Engineer | .NET & Fullstack Developer</h3>
 
 <p align="left">
-  [cite_start]Desarrollador de software apasionado por crear soluciones escalables y eficientes[cite: 9]. 
-  [cite_start]Con más de 3 años de experiencia en el ecosistema **.NET** y el desarrollo de aplicaciones web modernas[cite: 7, 38, 39]. 
-  [cite_start]Actualmente cursando Ingeniería en Desarrollo de Software en la Universidad de El Salvador.
+  Desarrollador de software apasionado por crear soluciones escalables y eficientes[cite: 9]. 
+  Con más de 3 años de experiencia en el ecosistema **.NET** y el desarrollo de aplicaciones web modernas[cite: 7, 38, 39]. 
+  Actualmente cursando Ingeniería en Desarrollo de Software en la Universidad de El Salvador.
 </p>
 
 ### 🛠️ Tecnologías y Herramientas
 
 **Backend & Core:**
-- [cite_start]🖥️ **.NET Core / .NET Framework / C#** [cite: 8, 21]
-- [cite_start]⚙️ **APIs RESTful** & Microservicios [cite: 8, 41]
-- [cite_start]💾 **SQL Server**, MySQL & MongoDB [cite: 26, 43]
-- [cite_start]🤖 **Automatización:** RPAs & Selenium [cite: 27, 42]
+- 🖥️ **.NET Core / .NET Framework / C#** 
+- ⚙️ **APIs RESTful** & Microservicios 
+- 💾 **SQL Server**, MySQL & MongoDB 
+- 🤖 **Automatización:** RPAs & Selenium 
 
 **Frontend:**
-- [cite_start]⚛️ **React.js** & Vue.js [cite: 23, 44]
-- [cite_start]🎨 Bootstrap, Material UI, Vuetify [cite: 24, 45]
-- [cite_start]📜 JavaScript (ES6+) & TypeScript [cite: 20]
+- ⚛️ **React.js** & Vue.js 
+- 🎨 Bootstrap, Material UI, Vuetify 
+- 📜 JavaScript (ES6+) & TypeScript 
 
 **DevOps & Tools:**
-- [cite_start]☁️ **Azure DevOps Server** & Firebase [cite: 26, 45, 48]
-- [cite_start]🐳 Docker & Docker Compose [cite: 27]
-- [cite_start]Git / GitHub [cite: 26]
+- ☁️ **Azure DevOps Server** & Firebase 
+- 🐳 Docker & Docker Compose 
+- Git / GitHub 
 
 ### 🔭 Experiencia Destacada
-- [cite_start]**Foundever:** Especializado en el desarrollo de APIs en .NET, automatización de procesos mediante RPAs y gestión de bases de datos SQL Server[cite: 38, 41, 42, 43].
-- [cite_start]**I-Strategies:** Desarrollo frontend con React.js e integración en tiempo real con Firebase[cite: 46, 48, 49].
+- **Foundever:** Especializado en el desarrollo de APIs en .NET, automatización de procesos mediante RPAs y gestión de bases de datos SQL Server.
+- **I-Strategies:** Desarrollo frontend con React.js e integración en tiempo real con Firebase.
 
 ### 📫 Conecta conmigo:
 <p align="left">
